@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Sapkale</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">Java Developer | Front-End Developer | Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavansapkale1999&label=Profile%20views&color=0e75b6&style=flat" alt="pavansapkale1999" /> </p>
 
